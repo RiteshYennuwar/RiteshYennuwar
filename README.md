@@ -14,11 +14,15 @@
 
 # 🚀 Projects:
 
+## End-to-End Disease Classification
+- **Description:** Designed an end-to-end disease classification flask app on predicting whether a subject is healthy or has a specific disease (e.g., Coccidiosis) using VGG16 image classification model.
+- **Technologies Used:** OpenCV, Scikit-learn, TensorFlow, Flask, Docker, DVC (Data Version Control), Docker
+- **GitHub Repository:** [End-to-End Disease Classification Repository](https://github.com/RiteshYennuwar/ETE_Disease_Classification)
+
 ## End-to-End Student Performance Prediction
 - **Description:** Built an end-to-end machine learning project for predicting student performance, involving data ingestion, transformation, model selection, training, evaluation, and deployment.
-- **Technologies Used:** Python, Machine Learning, Scikit-learn, TensorFlow, Jupyter Notebook
+- **Technologies Used:** Python, Machine Learning, Scikit-learn, TensorFlow, Flask
 - **GitHub Repository:** [End-to-End Student Performance Prediction](https://github.com/RiteshYennuwar/ETE_student_project)
-
 
 ## MicroBlogging_Platform
 - **Description:** Created a web application for microblogging, allowing users to register, login, and browse through blogs using the MEAN stack.
@@ -29,6 +33,7 @@
 - **Description:** Developed an end-to-end text summarization system using the Google/Pegasus-CNN_Dailymail model and the samsum dataset from hugging face.
 - **Technologies Used:** Python, Natural Language Processing (NLP), Hugging Face, TensorFlow
 - **GitHub Repository:** [End-to-End NLP Text Summarization Repository](https://github.com/RiteshYennuwar/ETE_NLP_Text_Summarization)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ritesh_yennuwar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshyennuwar/) 
